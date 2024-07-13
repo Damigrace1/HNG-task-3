@@ -20,7 +20,7 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository:**
 
-   git clone https://github.com/Damigrace1/HNG-task-2.git
+   git clone https://github.com/Damigrace1/HNG-task-3.git
 
    cd hngtask3
 
