@@ -40,8 +40,7 @@ Follow these steps to set up the project locally:
 
 
 - **Appetize Link:** (https://appetize.io/app/b_5pl52c265jrnfkq5byimnovqye).
-- **APK Download:** (https://drive.google.com/file/d/1i_A_-epijhL9bS9LCYbHY0CiWuP7KDYu/view?usp=drivesdk
-- ).
+- **APK Download:** (https://drive.google.com/file/d/1q9Zi1djlFse-qgDC4OcAHoWfIyw6hju8/view?usp=drivesdk).
 - **Contact Information:**
 - **Name**:`Damilare Ogunwehin`
 - **Slack Username**:`White Developer`
