@@ -39,12 +39,13 @@ Follow these steps to set up the project locally:
    ![ProductsList](assets/images/screenshots'/Screenshot_20240713-200551.png)
 
 
-- **Appetize Link:** (https://appetize.io/app/b_qgsleqquctpdjpw5mjbk7xuep4).
-- **APK Download:** (https://drive.google.com/file/d/1nYypYeAk6vp4uvr3fhR3hFPpPbIqzCOL/view?usp=drivesdk).
+- **Appetize Link:** (https://appetize.io/app/b_5pl52c265jrnfkq5byimnovqye).
+- **APK Download:** (https://drive.google.com/file/d/1i_A_-epijhL9bS9LCYbHY0CiWuP7KDYu/view?usp=drivesdk
+- ).
 - **Contact Information:**
 - **Name**:`Damilare Ogunwehin`
 - **Slack Username**:`White Developer`
 - **Email**:`whitedeveloper1@gmail.com`
-- **GitHub**:(https://github.com/Damigrace1/HNG-task-2)
+- **GitHub**:(https://github.com/Damigrace1/HNG-task-3)
 
 
