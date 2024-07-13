@@ -36,6 +36,7 @@ Follow these steps to set up the project locally:
 1. **Products List**
    ![ProductsList](assets/images/screenshots'/Screenshot_20240713-194607.png)
    ![ProductsList](assets/images/screenshots'/Screenshot_20240713-194622.png)
+   ![ProductsList](assets/images/screenshots'/Screenshot_20240713-200551.png)
 
 
 - **Appetize Link:** (https://appetize.io/app/b_qgsleqquctpdjpw5mjbk7xuep4).
